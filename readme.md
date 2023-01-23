@@ -1,7 +1,7 @@
 # cinema
  actors
 <br>
-https://jeongha-yu.github.io/haiyu/
+https://jeongha-yu.github.io/cinema/
 <br>
 <br>
 ## add button
