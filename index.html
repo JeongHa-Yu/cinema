@@ -2,15 +2,31 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>haiyu</title>
+        <title>cinema</title>
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
         <header>
-            <span class="title">haiyu</span>
+            <span class="title">cinema</span>
         </header>
         <main>
             <div class="sidebar">
+                <button id="open">add</button>
+                <div class="modal hidden">
+                    <div class="modal_overlay">
+                        <form class="modal_content" name="modal">
+                            <h1>add</h1>
+                            <label for="">actor</label>
+                            <input type="text" id="actor" placeholder="e.g. Adèle Haenel" required>
+                            <label for="">image&nbsp;&nbsp;address</label>
+                            <input type="text" id="imageAddress" placeholder="e.g. https://homemcr.org/app/uploads/2016/11/The-Unknown-Girl.jpg" required>
+                            <label for="">title</label>
+                            <input type="text" id="film" placeholder="e.g. The Unknown Girl" required>
+                            <button class="closeButton">close</button>
+                            <button type="submit" class="addButton">add</button>
+                        </form>
+                    </div>
+                </div>
                 <span>Franz Rogowski</span>
                 <span>Cillian Murphy</span>
                 <span>David Tennant</span>
@@ -40,5 +56,8 @@
                 </div>
             </section>
         </main>
+
+        
+        <script src="modal.js"></script>
     </body>
 </html>
