@@ -8,6 +8,7 @@ https://jeongha-yu.github.io/haiyu/
 ![image](https://user-images.githubusercontent.com/121331695/213981558-16e22d53-4a86-484d-9f4c-30f3578280a6.png)
 ![image](https://user-images.githubusercontent.com/121331695/213981609-6fa69fd3-54d7-45be-8eb5-566aafe2c203.png)
 <br>
+## default
 ![1](https://user-images.githubusercontent.com/121331695/210173254-29458dd5-4233-4eef-ab20-325420ea28e4.PNG)
 ![2](https://user-images.githubusercontent.com/121331695/210173259-05d96200-7214-4f6b-90bf-3a3cdbcc77b0.PNG)
 ![3](https://user-images.githubusercontent.com/121331695/210173260-c320a912-2747-44db-bbb8-eca00f3b0aee.PNG)
